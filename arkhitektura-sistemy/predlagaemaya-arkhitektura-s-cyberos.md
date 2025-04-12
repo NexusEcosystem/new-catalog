@@ -20,3 +20,7 @@ title: Предлагаемая архитектура с Cyberos
 [drawio:./predlagaemaya-arkhitektura-s-cyberos-2.svg::721px:241px]
 
 
+
+test
+
+[drawio:./predlagaemaya-arkhitektura-s-cyberos-3.svg::731px:781px]
